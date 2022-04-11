@@ -1,3 +1,3 @@
-module github.com/dim13/seahash
+module github.com/pedroalbanese/seahash
 
 go 1.15
